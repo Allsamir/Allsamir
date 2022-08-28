@@ -1,0 +1,5 @@
+- 👋 Hi, I’m @Allsamir
+- 👀 I’m interested in Web Designing
+- 🌱 I’m currently learning Web Development
+- 💞️ I’m looking to collaborate on Software Development
+- 📫 How to reach me shahinur1591@gmail.com
