@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Allsamir and I'm a Front-End Specialist and Full-Stack Developer.</p>
+<p align="left">My name is Allsamir and I'm a Front-End Specialist</p>
 
 ###
 
@@ -10,7 +10,8 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Python<br>🎯 Goals: Software Development<br>🎲 Fun fact: I love copy-pasting😜</h4>
+<h4 align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Python<br>🎯 Goals: Software Development, Full Stack Development <br>📫 How to reach me shahinur1591@gmail.com
+ <br>🎲 Fun fact: I love copy-pasting😜</h4>
 
 ###
 
