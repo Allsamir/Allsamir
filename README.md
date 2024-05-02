@@ -10,7 +10,7 @@
 
 ###
 
-<h4 align="left">✨ Creating bugs since 2021<br>📚 I'm currently learning Python<br>🎯 Goals: Data Science <br>📫 How to reach me shahinur1591@gmail.com
+<h4 align="left">✨ Creating bugs since 2022<br>📚 I'm currently learning Python<br>🎯 Goals: Software Engineering <br>📫 How to reach me shahinur1591@gmail.com
  <br>🎲 Fun fact: I love copy-pasting😜</h4>
 
 ###
