@@ -2,7 +2,7 @@
 
 ###
 
-<p align="left">My name is Allsamir and I'm a Front-End Specialist || Full-Stack Developer </p>
+<p align="left">My name is Allsamir and I'm a Front-End || Full-Stack Developer </p>
 
 ###
 
