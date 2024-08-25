@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Allsamir from Dhaka, Bangladesh<br><br>- 📚 I'm currently learning Next.js<br>- ⚡ Passionate about Software Engineering<br>- 💻 Building Full Stack Web Applications</p>
+<p align="left">I'm Allsamir from Dhaka, Bangladesh<br><br>- 📚 I'm currently learning CS50X<br>- ⚡ Passionate about Software Engineering<br>- 💻 Building Full Stack Web Applications</p>
 
 ###
 
