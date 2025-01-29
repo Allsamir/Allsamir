@@ -25,7 +25,7 @@
 
 ###
 
-<p align="left">I'm Allsamir from Dhaka, Bangladesh<br><br>- 📚 I'm currently learning CS50X<br>- 💻 Building Full Stack Web Applications</p>
+<p align="left">I am a passionate Software Developer with expertise in JavaScript and TypeScript. I thrive on building scalable and efficient web applications that solve real-world problems. <br><br>- 📚 I'm currently learning CS50X<br>- 💻 Building Full Stack Web Applications</p>
 
 ###
 
